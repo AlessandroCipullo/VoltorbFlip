@@ -1,6 +1,6 @@
 # Voltorb Flip
 
-An initial version of a Flutter project based on the minigame "Voltorb Flip", featured in Pokémon Heart Gold/Soul Silver.
+An initial version of a Flutter project based on the minigame "Voltorb Flip", featured in Pokémon Heart Gold & Pokémon Soul Silver.
 https://bulbapedia.bulbagarden.net/wiki/Voltorb_Flip
 
 ## Getting Started
